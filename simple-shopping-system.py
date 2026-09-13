@@ -159,7 +159,7 @@ while shopping == True:
                                 print("How much" , basket[return_choices[index]-1]["name"] , "do you want to return?") 
                                 how_much = int(input())
                                 if how_much < 1:
-                                    print("please dont enter negative / amounts")
+                                    print("please dont enter negative / zero amounts")
                                 else:
                                     break
                                 #calculates the new basket and stock
