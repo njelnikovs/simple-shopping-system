@@ -18,12 +18,11 @@ The user has 6 options to pick from and gets returned to the "main menu" through
 
 option 1 shows the user all the items, prices and number available
 
-option 2 shows the user his basket
+option 2 shows the user his basket (if it isn't empty)
 
 option 3 allows the user to add items in specific amounts to their basket , which also takes away from the stock and rolls back if the user requests more items than available
 
-option 4 allows the user to remove items in specific amounts to their basket, which also adds those items back to the stock and also rolls back if the user requests to return more
-than what they have
+option 4 allows the user to remove items in specific amounts to their basket, which also adds those items back to the stock and rolls back if the user requests to return more than what they have
 
 option 5 allows the user to checkout (if the basket isn't empty)
 
