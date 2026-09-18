@@ -33,7 +33,5 @@ I Tried my best to add error handling properly and everywhere when needed as wel
 some things I learned / worked out myself:
 . How to access data stored in a dictionary using indexes, I did so by making a list of dictionaries. Got the syntax a little wrong initially but managed to work it out after thinking about it differently.
 
-
-
-
+13/08/26
 
